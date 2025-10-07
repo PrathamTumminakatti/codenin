@@ -11,6 +11,7 @@ import Events from "./pages/Events/Events";
 import Blogs from "./pages/Blogs/Blogs";
 import Careers from "./pages/Careers/Careers";
 
+
 function App() {
   return (
     <Router>
